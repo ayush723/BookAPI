@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"utils"
+	"github.com/ayush723/BookAPI/utils"
 	// "net/http"
 
 	"github.com/gin-gonic/gin"
